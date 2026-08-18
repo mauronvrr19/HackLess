@@ -20,7 +20,7 @@
 
 | Rol | Quién | Permisos |
 |---|---|---|
-| Admin | Vos / líder técnico | Puede cambiar settings, borrar el repo, gestionar colaboradores |
+| Admin | líder técnico | Puede cambiar settings, borrar el repo, gestionar colaboradores |
 | Maintain | Referentes técnicos | Puede mergear PRs, gestionar issues, no puede borrar el repo |
 | Write | Resto del equipo (desarrolladores) | Puede crear ramas, subir commits, abrir PRs |
 | Read | Invitados externos / stakeholders (si aplica) | Solo lectura |
